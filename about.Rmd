@@ -2,6 +2,10 @@
 title: "A propos"
 description: |
   Le Groupe d'Archéologie Computationnelle est un collectif d'échange consacré aux méthodes numériques pour la recherche et l'enseignement en archéologie. Le groupe promeut une science ouverte, au bénéfice d'une recherche transparente et reproductible.
+output:
+  distill::distill_article:
+    toc: true
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}

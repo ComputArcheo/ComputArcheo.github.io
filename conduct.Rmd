@@ -2,6 +2,10 @@
 title: "Code de conduite"
 description: |
   La participation aux activités du Groupe d'Archéologie Computationnelle implique l'acceptation et le respect de notre code de conduite.
+output:
+  distill::distill_article:
+    toc: true
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
