@@ -14,11 +14,14 @@ navbar:
       href: index.html
     - text: "A propos"
       href: about.html
+    - icon: fa fa-comments
+      href: https://chatting.huma-num.fr/gac/
     - icon: fa fa-rss
       href: index.xml
   source_url: true
 collections:
   posts:
+    authors_metadata: false
     share: [twitter]
     custom: _custom.html
     citations: false

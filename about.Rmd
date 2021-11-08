@@ -14,11 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Objectifs
 
-Le Groupe d'Archéologie Computationnelle à notamment pour objectifs :
-
-* De sensibiliser aux enjeux de transparence et de reproductibilité de la recherche en archéologie ;
-* De promouvoir la publication et le partage libre des données de recherche en archéologie ;
-* De discuter de l'utilisation des approches quantitatives en archéologie.
+Le rôle du groupe est d'initier, d'organiser et de structurer des moments d'échanges entre les différents membres de la communauté archéologique. Le groupe offre un espace de discussion sur l'utilisation des méthodes quantitatives en archéologie. Il vise à promouvoir des pratiques collaboratives, notamment par l'usage des logiciels libres et des langages de scripts. Ces activités prennent la forme d'ateliers, de formations ou de séminaires.
 
 <aside>
 **Intérêts :**
@@ -32,7 +28,11 @@ Le Groupe d'Archéologie Computationnelle à notamment pour objectifs :
 </ul>
 </aside>
 
-Son rôle est d'initier, d'organiser et de structurer des moments d'échanges entre les différents membres de la communauté archéologique bordelaise. Le groupe offre un espace de discussion autour de l'utilisation des méthodes quantitatives en archéologie. Il vise à promouvoir des pratiques collaboratives notamment par l'usage des logiciels libres et des langages de scripts. Ces activités prennent la forme d'ateliers, de formations ou de séminaires.
+Le Groupe d'Archéologie Computationnelle à notamment pour objectifs :
+
+* De sensibiliser aux enjeux de transparence et de reproductibilité de la recherche en archéologie ;
+* De promouvoir la publication et le partage libre des données de recherche en archéologie ;
+* De discuter de l'utilisation des approches quantitatives en archéologie.
 
 ## Fonctionnement
 
